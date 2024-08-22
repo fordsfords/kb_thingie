@@ -123,8 +123,7 @@ In "bld_1.sh" look for and change:
 * `geeky-boy.com` and `whirlpool.jpg`
 * `Steve Ford's Knowledge Base`
 * Feel free to add other header and footer stuff. Look for `__HEADER__` and `__FOOTER__`.
-
-In "kb/home.md" look for "fordsfords" and change appropriately.
+* In "kb/home.md" look for "fordsfords" and change appropriately.
 And you'll probably want to change everything else in there too.
 
 ## More Details
