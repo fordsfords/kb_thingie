@@ -32,6 +32,6 @@ Tables don't look so good because I haven't applied any CSS magic. So, for examp
 | baz | baz2 |
 
 Code snippets are similarly not as nice as GitHub's rendering (same CSS reason). E.g. no independent scroll bar.
-````
+```
 This is a long line of code for your reading enjoyment, assuming you like reading code, which certainly makes sense to me since I love reading code.
-````
+```

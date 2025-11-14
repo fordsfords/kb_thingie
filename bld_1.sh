@@ -15,12 +15,8 @@ fi
 
 cat >"html/$F.html" <<__HEADER__
 <html><head><title>$TITLE</title>
-<link href="../doxygen_manual.css" rel="stylesheet" type="text/css" />
 </head>
 <body bgcolor="#ffffff">
-<div id="doc-content">
-<div class="contents">
-<div class="textblock">
 <a href="https://geeky-boy.com"><img src="../whirlpool.jpg" width="106" height="74" alt="Whirlpool"/></a>
 <br/>
 <p><b>Steve Ford's Knowledge Base</b></p>
@@ -32,6 +28,5 @@ __HEADER__
 cat >>"html/$F.html" <<__FOOTER__
 <hr>
 <p>KB <a href="home.html">Home</a> | <a href="index.html">Index</a></p>
-</div></div></div>
 </body></html>
 __FOOTER__
